@@ -1,6 +1,6 @@
 # hyperkoala.world
 
-*a dumb idea spawned from a conversation about silly domain names
+*a dumb idea spawned from a conversation about silly domain names*
 
 website created by normalworld:
 
