@@ -10,6 +10,6 @@ https://twitter.com/nrmlwrld
 
 https://soundcloud.com/normalworld
 
-additional coding and fixing up by shelly#5198
+additional coding and fixing up by shelly (nannou2)
 
 https://apictureof.me
