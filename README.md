@@ -4,12 +4,10 @@
 
 website created by normalworld:
 
-https://normalworld.neocities.org
+[soundcloud](https://soundcloud.com/normalworld)
 
-https://twitter.com/nrmlwrld
+[youtube](https://www.youtube.com/@nrmlwrld)
 
-https://soundcloud.com/normalworld
+additional coding and fixing up by shelly (stoneinfocus)
 
-additional coding and fixing up by shelly (nannou2)
-
-https://apictureof.me
+https://not.apictureof.me
